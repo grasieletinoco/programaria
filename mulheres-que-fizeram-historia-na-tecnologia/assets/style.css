@@ -280,7 +280,7 @@ footer{
   display: grid;
   justify-content: center;
   align-items: center;
-  height: 150px;
+  height: 160px;
   background-color: #262630;
   color:#686868;
   text-align: center;
@@ -291,11 +291,15 @@ footer{
   display: flex;
   gap: 10px;
   justify-content: center;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .social-list li{
   list-style: none;
+}
+
+.social-list li a img{
+  transition: all 0.2s;
 }
 
 .social-list li a img:hover{
@@ -303,7 +307,7 @@ footer{
 }
 
 .rodape{
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 footer h3{
   font-size: 20px;
@@ -313,6 +317,29 @@ footer p{
   font-size: 15px;
 }
 
+.footer_info{
+  display: flex;
+  align-items: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
 
+.footer_info p{
+  text-transform: uppercase;
+}
 
-  
+.footer_info ul{
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+}
+
+.footer_info ul li {
+  text-align: center;
+  padding-left: 5px;
+  transition: all 0.2s;
+}
+
+.footer_info ul li:hover {
+  scale: 1.1;
+}
