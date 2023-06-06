@@ -26,6 +26,7 @@
 Este projeto é um dicionário que lista as mulheres negras que fizeram e ainda fazem parte da história do Brasil e mundo.
 
 Feito com HTML, CSS e Javascript.
+Link: https://projeto-dicionario-de-mulheres-negras.netlify.app/
 
 
 
@@ -34,6 +35,7 @@ Feito com HTML, CSS e Javascript.
 Tema Escolhido: Mulheres que Fizeram História na Tecnologia.
 
 Feito com HTML, CSS e Javascript.
+Link:https://programaria-projeto-final.netlify.app/
 
 
 
